@@ -22,6 +22,22 @@ A modern, full-featured e-commerce platform built with **Next.js 16**, **TypeScr
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home & Categories
+![Home & Categories](./public/screenshots/home-hero.png)
+
+### 🛍️ Latest Products & Promotions
+![Latest Products & Promotions](./public/screenshots/home-products.png)
+
+### ⭐ Best Sellers & Featured Brands
+![Best Sellers & Featured Brands](./public/screenshots/home-brands.png)
+
+### 📰 Latest Articles & Footer
+![Latest Articles & Footer](./public/screenshots/home-footer.png)
+
+---
+
 ## ✨ Features
 
 - 🛒 Full shopping cart and product catalog
